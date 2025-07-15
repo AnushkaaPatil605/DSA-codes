@@ -1,2 +1,2 @@
-# OOPCG-codes
+# DSA codes
 SE computer engineering SPPU
